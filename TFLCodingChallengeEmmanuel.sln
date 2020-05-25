@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{1444F6E8-E39C-48A9-ADDA-C15BD16025A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFLCodingChallengeEmmanuel.Test", "TFLCodingChallengeEmmanuel.Test\TFLCodingChallengeEmmanuel.Test.csproj", "{65E7423B-95F1-49FF-A72E-D8B34AF0E812}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFLCodingChallengeEmmanuel.Server", "TFLCodingChallengeEmmanuel.Server\TFLCodingChallengeEmmanuel.Server.csproj", "{351ED425-38CA-4AE6-B398-560AC3A1F166}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFLCodingChallengeEmmanuel.API.Feature", "TFLCodingChallengeEmmanuel.API.Feature\TFLCodingChallengeEmmanuel.API.Feature.csproj", "{F761F790-2AF0-48B9-83DF-BE13B03546B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLCodingChallengeEmmanuel.Console", "TFLCodingChallengeEmmanuel.Console\TFLCodingChallengeEmmanuel.Console.csproj", "{17E42253-F943-4942-BDD5-5F73AB7BBC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E7423B-95F1-49FF-A72E-D8B34AF0E812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E7423B-95F1-49FF-A72E-D8B34AF0E812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E7423B-95F1-49FF-A72E-D8B34AF0E812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E7423B-95F1-49FF-A72E-D8B34AF0E812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351ED425-38CA-4AE6-B398-560AC3A1F166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351ED425-38CA-4AE6-B398-560AC3A1F166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351ED425-38CA-4AE6-B398-560AC3A1F166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351ED425-38CA-4AE6-B398-560AC3A1F166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F761F790-2AF0-48B9-83DF-BE13B03546B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F761F790-2AF0-48B9-83DF-BE13B03546B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F761F790-2AF0-48B9-83DF-BE13B03546B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F761F790-2AF0-48B9-83DF-BE13B03546B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E42253-F943-4942-BDD5-5F73AB7BBC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E42253-F943-4942-BDD5-5F73AB7BBC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E42253-F943-4942-BDD5-5F73AB7BBC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E42253-F943-4942-BDD5-5F73AB7BBC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65E7423B-95F1-49FF-A72E-D8B34AF0E812} = {1444F6E8-E39C-48A9-ADDA-C15BD16025A7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEAB6BE4-5BA1-4390-A351-C8433E68AD23}
+	EndGlobalSection
+EndGlobal
